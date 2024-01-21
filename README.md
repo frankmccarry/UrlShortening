@@ -12,6 +12,6 @@ This project builds a Docker image that packages the URL Shortening Service data
 
 This project contains the actual implementation of the URL Shortening Service. It can be found in [microprofile-config](microprofile-config).
 
-### shortening-http
+### shortening-httpd
 
-This project contains a simple HTTP client that can be used to interact with the URL Shortening Service. It can be found in [shortening-http](shortening-http).
+This project contains a simple HTTP client that can be used to interact with the URL Shortening Service. It can be found in [shortening-httpd](shortening-httpd).
