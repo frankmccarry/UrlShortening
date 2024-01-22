@@ -1,0 +1,12 @@
+insert into account (name) values ('Victor');
+insert into account (name) values ('Sharon');
+insert into url (short_url, long_url) values ('abc123', 'https://www.google.com');
+insert into url (short_url, long_url) values ('ert123', 'https://www.rte.ie');
+insert into url (short_url, long_url) values ('dgg123', 'https://www.gumtree.com');
+insert into url (short_url, long_url) values ('hjj123', 'https://www.outlook.com');
+insert into url (short_url, long_url) values ('hjc123', 'https://www.abc.com');
+insert into account_url (account_id, url_id) values (1, 1);
+insert into account_url (account_id, url_id) values (1, 2);
+insert into account_url (account_id, url_id) values (1, 3);
+insert into account_url (account_id, url_id) values (2, 4);
+insert into account_url (account_id, url_id) values (2, 5);

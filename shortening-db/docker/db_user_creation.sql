@@ -1,0 +1,2 @@
+CREATE USER url_user WITH PASSWORD 'p@ssw0rd';
+GRANT ALL PRIVILEGES ON DATABASE postgres TO url_user;
